@@ -1,0 +1,56 @@
+var obj = {}
+
+undefined
+
+obj.name="atul"
+
+"atul"
+
+obj
+
+Object {name: "atul"}
+
+obj.age= 22
+
+22
+
+obj
+
+Object {name: "atul", age: 22}
+
+
+................................................................................
+
+var num 5
+
+
+var num =5
+
+undefined
+
+num.age=30
+
+30
+
+num.age
+
+undefined
+
+
+................................................................................
+
+var str='atul'
+
+undefined
+
+typeof str
+
+"string"
+
+str.age=22
+
+22
+
+str.age
+
+undefined
